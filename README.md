@@ -17,6 +17,3 @@ Simple Mockup of the Test setup. No backend functionality provided yet.
 3. Open the `index.html` file.
 4. Right-click on the `index.html` file and select "Open with Live Server".
 5. The project will open in your default browser with live reloading enabled.
-
-
-# sqep
